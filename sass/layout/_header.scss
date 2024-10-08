@@ -1,0 +1,13 @@
+@import "../utilidades/_variables.scss";
+
+header{
+    background-color:$color-negro;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-content: center;
+}
+
+.logo{
+    width: 20%;
+    text-align: center;    
+}

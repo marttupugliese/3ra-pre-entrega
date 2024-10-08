@@ -1,0 +1,23 @@
+@import "../utilidades/_variables.scss";
+
+.grey-bg{
+    background-color:$color-bota-cruella;
+}
+
+.gray:hover{
+    background-color:$color-barra-hover;
+}
+
+.gray-sale{
+    color:$color-barra-sale;
+}
+
+.gray:active{
+    color:$color-fint-main-div-uno;
+}
+
+.black-elegido{
+    background-color:$color-negro;
+    border-radius: 20px;
+    border-color:$color-elegido-border;
+}

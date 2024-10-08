@@ -1,0 +1,15 @@
+@import "../utilidades/_variables.scss";
+
+/* estilos sale */
+
+.red-sale{
+    color:$color-barra-sale;
+}
+
+.red-sale:hover{
+    color:$color-negro;
+}
+
+.black-sale{
+    color:$color-negro;
+}

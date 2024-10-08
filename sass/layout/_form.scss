@@ -1,0 +1,15 @@
+@import "../utilidades/_variables.scss";
+
+
+.boton-forms{
+    background-color: $color-bota-cruella;
+    display: inline-block;
+    padding: 10px;
+    margin-top: 20px;
+    border: 2px solid $color-negro;
+}
+
+section .boton-forms a{
+    color:$color-section-forms-boton;
+    text-decoration: none;
+}
